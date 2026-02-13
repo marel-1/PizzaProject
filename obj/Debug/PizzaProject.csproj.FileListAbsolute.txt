@@ -1,0 +1,10 @@
+C:\Users\tokyl\source\repos\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+C:\Users\tokyl\source\repos\PizzaProject\obj\Debug\PizzaProject.Pizza.resources
+C:\Users\tokyl\source\repos\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+C:\Users\tokyl\source\repos\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+C:\Users\tokyl\source\repos\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Users\tokyl\source\repos\PizzaProject\bin\Debug\PizzaProject.exe.config
+C:\Users\tokyl\source\repos\PizzaProject\bin\Debug\PizzaProject.exe
+C:\Users\tokyl\source\repos\PizzaProject\bin\Debug\PizzaProject.pdb
+C:\Users\tokyl\source\repos\PizzaProject\obj\Debug\PizzaProject.exe
+C:\Users\tokyl\source\repos\PizzaProject\obj\Debug\PizzaProject.pdb
